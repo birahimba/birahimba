@@ -1,4 +1,18 @@
-- 👋 Hi, I’m @birahimba
+
+########  #### ########     ###    ########  ######## ##     ## 
+##     ##  ##  ##     ##   ## ##   ##     ## ##       ##     ## 
+##     ##  ##  ##     ##  ##   ##  ##     ## ##       ##     ## 
+########   ##  ########  ##     ## ##     ## ######   ##     ## 
+##     ##  ##  ##   ##   ######### ##     ## ##        ##   ##  
+##     ##  ##  ##    ##  ##     ## ##     ## ##         ## ##   
+########  #### ##     ## ##     ## ########  ########    ###   
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+
+
+- 👋 Hi, I’m @birahimba 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
